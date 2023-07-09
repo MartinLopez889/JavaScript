@@ -1,5 +1,5 @@
 // Prompt y Alert
-/* Traductor */
+/* Ejemplo de traductor */
 alert("Cómo saludar en Inglés")
 
 let palabra1 = prompt("Ingrese 'hola'")
@@ -28,7 +28,7 @@ if (suma == "+"){
     alert("El resultado de la suma es " + resultado)
 }else{
     if (operacion != "+"){
-    alert("No ingresó el simbolo correcto")
+    alert("No ingresó el símbolo correcto")
     }
 }
 
@@ -42,7 +42,7 @@ if (resta == "-"){
     alert("El resultado de la resta es " + resultado)
 }else{
     if (operacion != "-"){
-    alert("No ingresó el simbolo correcto")
+    alert("No ingresó el símbolo correcto")
     }
 }
 
